@@ -1,0 +1,30 @@
+/* Reset Css */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+div{
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#canto {
+    border: solid 2px;
+}
+#canto:hover{
+    border: 4px solid black;
+    background-color: rgb(140, 118, 118);
+   
+}
+
+.vermelho{
+    background-color: red;
+}
