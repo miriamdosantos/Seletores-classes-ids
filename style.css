@@ -9,6 +9,9 @@ body{
     background-color: antiquewhite;
 }
 
+h1{
+    margin-left: 30%;
+}
 div{
     display: inline-block;
     border: 1px solid black;
@@ -39,4 +42,14 @@ div{
 
 .amarelo{
     background-color: yellow;
+}
+
+section{
+    margin-left: 10%;
+}
+
+footer p{
+padding-left: 25%;
+font-size: 1rem;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
